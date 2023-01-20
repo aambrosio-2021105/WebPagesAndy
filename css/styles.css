@@ -1,0 +1,13 @@
+body{
+    background-color: azure;
+}
+.title{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#texto{
+    color: blue;
+}
+.kinal{
+    text-align: center;
+}
